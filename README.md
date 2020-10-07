@@ -1,3 +1,3 @@
 # Fundamentos
-Práctica 1
+Clase 7 de octubre 
 
